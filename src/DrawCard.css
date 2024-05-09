@@ -1,0 +1,40 @@
+.Deck{
+    text-align: center;
+    background-color: #058209;
+
+}
+
+.Deck-deal{
+    padding: 15px;
+    background-color: #000;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin: 0 10px;
+}
+
+.Deck-shuffle{
+    padding: 15px;
+    background-color: #cf1411;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin: 0 10px;
+}
+
+.Deck-deal:hover{
+    cursor: pointer;
+    background-color:#616161 ;
+}
+
+.Deck-shuffle:hover{
+    cursor: pointer;
+    background-color:#b56969;
+}
+
+.Deck-cardarea{
+    margin-top: 80px;
+    background-color:#058209 ;
+   
+}
+
